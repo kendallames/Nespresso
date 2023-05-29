@@ -1,0 +1,95 @@
+CapsuleID,Name,Intensity,Type,Origin,Machine_Type,Price,Limited_Edition,Sleeve_Quantity,Decaf
+1,"Roasted Hazelnut",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+2,"Whiskey Essence",NULL,"Double Espresso",NULL,Vertuo,13.00,Yes,10,No
+3,"Sweet Vanilla",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+4,"Golden Caramel",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+5,"Rich Chocolate",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+6,"Bianco Piccolo",NULL,"Single Espresso",NULL,Vertuo,9..80,No,10,No
+7,"Bianco Doppio",NULL,"Double Espresso",NULL,Vertuo,11.50,No,10,No
+8,"Bianco Forte",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+9,"Ice Forte",NULL,Mug,NULL,Vertuo,12.50,No,10,No
+10,"Ice Leggero",NULL,"Double Espresso",NULL,Vertuo,11.50,No,10,No
+11,"Kahawa Ya Congo",6,Mug,Congo,Vertuo,15.00,No,10,No
+12,"El Salvador",5,Mug,"El Salvador",Vertuo,13.50,No,10,No
+13,"Peru Organic",6,"Single Espresso",Peru,Vertuo,11.00,No,10,No
+14,"Costa Rica",7,"Gran Lungo","Costa Rica",Vertuo,12.00,No,10,No
+15,Mexico,7,Mug,Mexico,Vertuo,13.50,No,10,No
+16,Ethiopia,4,"Gran Lungo",Ethiopia,Vertuo,12.00,No,10,No
+17,Colombia,5,Mug,Columbia,Vertuo,13.50,No,10,No
+18,"Alto Ambrato",4,Alto,NULL,Vertuo,10.50,No,7,No
+19,"Alto Onice",7,Alto,Colombia,Vertuo,10.50,No,7,No
+20,"Pour-Over Style Mild",NULL,Carafe,"Latin America",Vertuo,11.55,No,7,No
+21,"Pour-Over Style",NULL,Carafe,NULL,Vertuo,11.55,No,7,No
+22,Intenso,9,Mug,Nicaragua,Vertuo,12.50,No,10,No
+23,Stormio,8,Mug,"Nicaraguan and Guatemalan",Vertuo,12.50,No,10,No
+24,Odacio,7,Mug,NULL,Vertuo,12.50,No,10,No
+25,Melozio,6,Mug,Brazil,Vertuo,12.50,No,10,No
+26,Solelio,2,Mug,"Kenya and Colombia",Vertuo,12.50,No,10,No
+27,"Il Caffe",11,"Single Espresso",NULL,Vertuo,9.80,No,10,No
+28,Diavolitto,11,"Single Espresso",NULL,Vertuo,9.80,No,10,No
+29,Altissio,9,"Single Espresso","Latin America",Vertuo,9.80,No,10,No
+30,Orafio,6,"Single Espresso",NULL,Vertuo,9.80,No,10,No
+31,Toccanto,5,"Single Espresso","Latin America",Vertuo,9.80,No,10,No
+32,Voltesso,4,"Single Espresso","South America",Vertuo,9.80,No,10,No
+33,"Altissio Decaffeinato",9,"Single Espresso","Latin America",Vertuo,10.50,No,10,Yes
+34,"Melozio Decaffeinato",6,Mug,Brazil,Vertuo,13.00,No,10,Yes
+35,"Half Caffeinato",NULL,Mug,NULL,Vertuo,12.50,No,10,Yes
+36,Dolce,5,"Double Espresso",Uganda,Vertuo,11.50,No,10,No
+37,Scuro,11,"Double Espresso","Central America",Vertuo,11.50,No,10,No
+38,Chiaro,8,"Double Espresso","South and Central America",Vertuo,11.50,No,10,No
+39,Inizio,4,"Gran Lungo","East Africa",Vertuo,11.50,No,10,No
+40,Fortado,8,"Gran Lungo",Colombia,Vertuo,11.50,No,10,No
+41,"Fortado Decaffeinato",8,"Gran Lungo","Colombia and India",Vertuo,12.00,No,10,Yes
+42,Arondio,6,"Gran Lungo",NULL,Vertuo,11.50,No,10,No
+43,"Vivida Boost",NULL,Mug,NULL,Vertuo,14.00,No,10,No
+44,"Melozio Boost",6,Mug,"Latin America",Vertuo,14.00,No,10,No
+45,"Stormio Boost",8,Mug,"Central America",Vertuo,14.00,No,10,No
+46,"Volluto Decaffeinato",4,"Single Espresso","Brazil and Colombia",Original,8.00,No,10,Yes
+47,"Arpeggio Decaffeinato",9,Ristretto,"Latin America",Original,8.00,No,10,Yes
+48,"Ristretto Italiano Decaffeinato",10,Ristretto,NULL,Original,8.00,No,10,Yes
+49,Ethiopia,4,"Single Espresso",Ethiopia,Original,8.50,No,10,No
+50,Nicaragua,5,"Single Espresso",Nicaragua,Original,8.50,No,10,No
+51,Colombia,6,"Single Espresso",Colombia,Original,8.50,No,10,No
+52,Indonesia,8,"Single Espresso",Indonesia,Original,8.50,No,10,No
+53,India,11,"Single Espresso",India,Original,8.50,No,10,No
+54,"Peru Organic",6,"Single Espresso",Peru,Original,8.50,No,10,No
+55,Honduras,8,"Single Espresso",Honduras,Original,8.50,No,10,No
+56,"Esperanza De Colombia",5,"Single Espresso",Colombia,Original,11.00,Yes,10,No
+57,"Tamuka Mu Zimbabwe",5,Lungo,Zimbabwe,Original,11.00,Yes,10,No
+58,"Kahawa Ya Congo",7,"Single Espresso",Congo,Original,11.00,No,10,No
+59,Cosi,4,"Single Espresso","Africa and Latin America",Original,8.00,No,10,No
+60,Volluto,4,"Single Espresso","Brazil and Colombia",Original,8.00,No,10,No
+61,Capriccio,5,"Single Espresso",NULL,Original,8.00,No,10,No
+62,"Buenos Aires",4,Lungo,"Nicaragua and Guatemalan",Original,8.50,No,10,No
+63,Shanghai,5,Lungo,NULL,Original,8.50,No,10,No
+64,"Vienna Linizio",6,Lungo,"South America",Original,8.50,No,10,No
+65,"Tokyo Vivalto",6,Lungo,NULL,Original,8.50,No,10,No
+66,"Stockholm Fortissio",8,Lungo,NULL,Original,8.50,No,10,No
+67,"Cape Town Envivo",10,Lungo,NULL,Original,8.50,No,10,No
+68,Miami,9,"Single Espresso",NULL,Original,8.50,No,10,No
+69,Paris,6,"Single Espresso",NULL,Original,8.50,No,10,No
+70,Istanbul,8,"Single Espresso",NULL,Original,8.50,No,10,No
+71,"Rio De Janeiro",9,"Single Espresso",Brazil,Original,8.50,No,10,No
+72,"Genova Livanto",6,"Single Espresso","Latin America",Original,8.00,No,10,No
+73,Roma,8,Ristretto,NULL,Original,8.00,No,10,No
+74,Arpeggio,9,Ristretto,NULL,Original,8.00,No,10,No
+75,"Ristretto Italiano",10,Ristretto,NULL,Original,8.00,No,10,No
+76,"Palermo Kazaar",12,Ristretto,NULL,Original,8.00,No,10,No
+77,Venezia,8,Ristretto,NULL,Original,8.00,No,10,No
+78,Napoli,13,Ristretto,NULL,Original,8.00,No,10,No
+79,Chiaro,NULL,Ristretto,"Kenya and Indonesia",Original,8.00,No,10,No
+80,Scuro,NULL,Espresso,"Colombia and Ethiopia",Original,8.00,No,10,No
+81,Corto,NULL,Espresso,Africa,Original,8.00,No,10,No
+82,"Freddo Delicato",NULL,Espresso,Kenya,Original,8.00,No,10,No
+83,"Freddo Intenso",NULL,Espresso,"South America and Indonesia",Original,8.00,No,10,No
+84,Nocciola,NULL,Lungo,NULL,Original,8.50,No,10,No
+85,Cioccolatino,NULL,Lungo,NULL,Original,8.50,No,10,No
+86,Caramello,NULL,Lungo,NULL,Original,8.50,No,10,No
+87,Vaniglia,NULL,Lungo,NULL,Original,8.50,No,10,No
+88,"Filter Style Mild",NULL,"Gran Lungo",NULL,Original,8.50,No,10,No
+89,"Coconut Flavor Over Ice",NULL,Espresso,"Latin America and Africa",Original,9.00,Yes,10,No
+90,"Filter Style Intense",NULL,"Gran Lungo",NULL,Original,9.50,No,10,No
+91,"Hawaii Kona",5,Espresso,NULL,Original,20.00,Yes,10,No
+92,"Starbucks Reserve Remix",6,"Double Espresso","Ethiopia and Indonesia",Vertuo,19.50,Yes,10,No
+93,"Juicy Watermelon Flavor Over Ice",NULL,"Double Espresso",NULL,Vertuo,13.00,Yes,10,No
+94,"Tropical Coconut Flavor Over Ice",NULL,Mug,"Latin America and Africa",Vertuo,14.50,Yes,10,No

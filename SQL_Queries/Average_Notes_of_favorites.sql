@@ -3,7 +3,11 @@ SELECT AVG(Bitterness) AS 'Average Bitterness',
     AVG(Roast_Level) AS 'Average Roast Level',
     AVG(Body) AS 'Average Body'
 FROM (
-    SELECT cp.Bitterness, cp.Acidity, cp.Roast_Level, cp.Body, k.KJRating
+    SELECT cp.Bitterness, 
+	cp.Acidity, 
+	cp.Roast_Level, 
+	cp.Body, 
+	k.KJRating
     FROM Capsules c
     JOIN Coffee_Profile cp 
 		ON c.CapsuleID = cp.CapsuleID

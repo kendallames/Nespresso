@@ -22,10 +22,10 @@ elif operation == "2":
     # code to select a favorite drink
     
     favorites = {
-        "americano": "Iced Vanilla Americano with Cream",
-        "latte": "Iced Caramel Latte with Almond Milk",
-        "mocha": "Iced Mocha with Peppermint",
-        "cold_brew": "Pumpkin Cream Cold Brew"
+        "americano": "Medium Iced Vanilla Americano with Cream",
+        "latte": "Medium Iced Caramel Latte with Almond Milk",
+        "mocha": "Small Iced Mocha with Peppermint",
+        "cold_brew": "Large Pumpkin Cream Cold Brew"
     }
 
     print("Select your favorite:")

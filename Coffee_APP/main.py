@@ -8,6 +8,8 @@ print("3. Quit")
 operation = input()
 
 if operation == "1":
+    # code to enter a new drink
+    
     hot_cold = input("Iced or Hot: ")
     new_drink = input("Enter New Drink: ")
     drink_size = input("Enter Size: ")
@@ -16,6 +18,8 @@ if operation == "1":
           + capsule + " " + "nespresso capsule")
     print("Thank you for ordering!")
 elif operation == "2":
+    # code to select a favorite drink
+    
     favorites = {
         "americano": "Iced Vanilla Americano with Cream",
         "latte": "Iced Caramel Latte with Almond Milk",
@@ -39,7 +43,7 @@ elif operation == "2":
     else:
         print("Invalid choice.")
 elif operation == "3":
-    # code for quit
+    # code to quit
     print("Quitting Application. You will be returned to the main menu.")
 else:
     print("Invalid Entry. Please Select a Number 1-3.")

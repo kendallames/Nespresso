@@ -17,6 +17,7 @@ if operation == "1":
     print("The drink you want is: " + drink_size + " " + hot_cold + " " + new_drink + " " + "using "
           + capsule + " " + "nespresso capsule")
     print("Thank you for ordering!")
+    
 elif operation == "2":
     # code to select a favorite drink
     
@@ -42,9 +43,11 @@ elif operation == "2":
         print("Thank you for ordering!")
     else:
         print("Invalid choice.")
+        
 elif operation == "3":
     # code to quit
     print("Quitting Application. You will be returned to the main menu.")
+    
 else:
     print("Invalid Entry. Please Select a Number 1-3.")
 

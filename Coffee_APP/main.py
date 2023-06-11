@@ -1,4 +1,4 @@
-# Coffee APP
+# The Coffee Shop APP
 
 print("Welcome to Kendall's Coffee App. What would you like to do?")
 print("1. Enter a New Drink")
